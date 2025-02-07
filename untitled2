@@ -1,0 +1,4 @@
+my_information={"Name":"Vivian","Slack m username":"Korir","Email":"vckorirr.9@gmail.com","Hobby":"Art","Country":"Scotland","Discipline":"Medical Biotechnology", "Preferred programming language":"Python"} 
+Print(my_information) 
+print(my_information["Name"])
+Vivian
